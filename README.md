@@ -1,10 +1,10 @@
 # 🦠 Project Overview
-COVID-19 data preparation and univariate/correlation analysis notebook
-A compact, reproducible demonstration of common data-preparation tasks used in analytics pipelines and model-ready preprocessing applied to a COVID-19 dataset.
+- COVID-19 data preparation and univariate/correlation analysis notebook
+- A compact, reproducible demonstration of common data-preparation tasks used in analytics pipelines and model-ready preprocessing applied to a COVID-19 dataset.
 
 
 ### 📋 Purpose
-Provide a clear example of loading, cleaning, numeric coercion, descriptive statistics, univariate diagnostics, visualization, and correlation analysis for real-world epidemiological data.
+- Provide a clear example of loading, cleaning, numeric coercion, descriptive statistics, univariate diagnostics, visualization, and correlation analysis for real-world epidemiological data.
 
 
 ### 📚 Datasets in the Notebook
